@@ -4,7 +4,7 @@ title: About
 example: "Some random text. Hello."
 ---
 
-This page describes the amazing {{ site.title }} by {{ site.author.name }}.
+This page describes the amazing {{ site.title }} by {{ site.author.name }}. Also showing: {{ site.description }}
 {{ page.example }}
 
 {% include big-cat.html %}
