@@ -1,0 +1,11 @@
+# Site settings
+title: My New Blog Title
+
+author:
+  name: Anik Halder
+  email: prime.anik@gmail.com
+  
+description: "Great site about Jekyll on GH-Pages."
+
+# Build settings
+remote_theme: jekyll/minima
