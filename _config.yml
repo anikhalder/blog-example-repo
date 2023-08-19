@@ -1,11 +1,11 @@
 # Site settings
 title: New Blog
 
-#author:
-#  name: AH
+author:
+  name: AH
 #  email: lol@gmail.com
   
-#description: "Great site about Jekyll on GH-Pages."
+description: "Great site about Jekyll on GH-Pages."
 
 # Build settings
 remote_theme: jekyll/minima
