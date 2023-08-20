@@ -5,11 +5,18 @@ author:
   name: AH
 #  email: lol@gmail.com
   
-description: "Great site about Jekyll on GH-Pages."
+# description: "Great site about Jekyll on GH-Pages."
 
 # Build settings
 remote_theme: jekyll/minima
 
 minima:
   skin: dark
-  
+
+format:
+  html: 
+    grid:
+      sidebar-width: 300px
+      body-width: 900px
+      margin-width: 300px
+      gutter-width: 1.5rem
