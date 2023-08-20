@@ -1,6 +1,6 @@
 ---
 layout: home
-full-width: true
+classes: wide
 ---
 
 <img align="left" width="100" height="100" src="images/Arsenal_logo_crest_logotype.png" alt="Arsenal logo" />
