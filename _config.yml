@@ -12,11 +12,3 @@ remote_theme: jekyll/minima
 
 minima:
   skin: dark
-
-format:
-  html: 
-    grid:
-      sidebar-width: 300px
-      body-width: 900px
-      margin-width: 300px
-      gutter-width: 1.5rem
