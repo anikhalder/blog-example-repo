@@ -2,6 +2,5 @@
 layout: home
 ---
 
-Welcome to the new blog
+<img align="left" width="100" height="100" src="images/Arsenal_logo_crest_logotype.png" alt="Arsenal logo" /> <p align="left"> Welcome to the new blog. Welcome to the new blog. Welcome to the new blog. Welcome to the new blog. Welcome to the new blog. Welcome to the new blog. Welcome to the new blog. Welcome to the new blog. Welcome to the new blog. Welcome to the new blog. Welcome to the new blog. Welcome to the new blog. </p>
 
-<img  src="images/Arsenal_logo_crest_logotype.png" alt="Arsenal logo" />
